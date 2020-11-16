@@ -5,7 +5,7 @@
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
-[![Languages](https://img.shields.io/badge/languages-Java-yellow.svg)](https://github.com/alexprut/HackerRank#table-of-contents)
+![Languages](https://img.shields.io/badge/languages-Java-yellow.svg)
 [![Author](https://img.shields.io/badge/author-ThiagoMoura-brightgreen.svg?style=flat-square)](https://github.com/TAMMoura)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/TAMMoura/crud-javafx-jdbc/blob/master/LICENSE)
 
